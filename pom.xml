@@ -12,7 +12,7 @@
 	<artifactId>arbolbinario</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>arbolbinario</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Arbol binario 1.0</description>
 
 	<properties>
 		<java.version>1.8</java.version>
