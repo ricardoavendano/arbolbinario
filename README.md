@@ -27,6 +27,7 @@ Para correr el proyecto tener en cuenta:
     {
       "listNode":[ 67, 39, 76, 28, 44, 74, 85, 29, 83, 87 ]
     }
+    Nota: Se genera un archivo con la lista de nodos ingresados en el JSON en la ruta /target/arbol.txt
   c). Swagger (Con esta dependencia se pueden consumir los servicios de una forma mas amigable)
   http://localhost:8080/arbol/swagger-ui.html
   d) puede hacer uso de postman o soapUI si lo requiere
