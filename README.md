@@ -6,7 +6,8 @@ Para correr el proyecto tener en cuenta:
 1. Aplicacion realizada con Spring boot con IDE Spring Tool Suite 4
 2. Uso de apache Maven 3.6.1
 3. Java 8
-
+4. Descargue el proyecto en su ordenador
+  a) git clone https://github.com/ricardoavendano/arbolbinario.git
 5. Para ejecutar el proyecto, ubicarse en la carpeta donde clono el proyecto, ejecutar
   a) mvn clean install (descarga las dependencias necesarias para que el proyecto funcione)
 6. Si usa el IDE Spring Tool Suite 4, 
